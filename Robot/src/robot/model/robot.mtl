@@ -1,0 +1,64 @@
+#==================================================
+#Material list
+#This file has been created by PoseRay v3.12.2.456
+#3D model to POV-Ray/Moray Converter.
+#Author: FlyerX
+#Email: flyerx_2000@yahoo.com
+#Web: http://mysite.verizon.net/sfg0000/
+#==================================================
+ 
+#==================================================
+newmtl wire_186180205
+Ns 2.5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+#r 0
+#blend 0
+#cell_hi
+ 
+#==================================================
+newmtl wire_055055055
+Ns 2.5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+#r 0
+#blend 0
+#cell_hi
+ 
+#==================================================
+newmtl wire_134006006
+Ns 2.5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+#r 0
+#blend 0
+#cell_hi
+ 
+#==================================================
+newmtl wire_177148026
+Ns 2.5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+#r 0
+#blend 0
+#cell_hi
+ 
+#==================================================
+newmtl wire_255255255
+Ns 2.5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+#r 0
+#blend 0
+#cell_hi
+ 
